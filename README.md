@@ -1,4 +1,5 @@
 # calculadora.py
+codigo de calculadora
 Relatório: Métodos para Proteger Código-Fonte em Python
 Data: 12 de agosto de 2024
 
